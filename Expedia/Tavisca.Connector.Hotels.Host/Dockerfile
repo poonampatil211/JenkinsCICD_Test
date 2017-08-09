@@ -7,4 +7,4 @@ EXPOSE 5000/tcp
 
 ENV ASPNETCORE_ENVIRONMENT Development
 
-CMD /usr/bin/dotnet /app/Tavisca.Connectors.Hotel.dll --server.urls http://*:5000 --environment $ASPNETCORE_ENVIRONMENT
+CMD /usr/bin/dotnet /app/Travel.Connectors.Hotel.dll --server.urls http://*:5000 --environment $ASPNETCORE_ENVIRONMENT

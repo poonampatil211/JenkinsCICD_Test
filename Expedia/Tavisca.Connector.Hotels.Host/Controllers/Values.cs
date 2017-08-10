@@ -15,7 +15,7 @@ namespace Travel.Connectors.Hotel.Controllers
         public IEnumerable<string> Get(string test)
         {
             //testData();
-            return new string[] { "value1", "value2 this is test application1."};
+            return new string[] { "value1", "value24", "test2"};
         }
 
         // GET api/values/5

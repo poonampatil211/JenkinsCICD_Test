@@ -18,7 +18,7 @@
     },
     {
       "UsgErrorCode": "5",
-      "GetARoomErrorCode": "382",
+      "GetARoomErrorCode": "381",
       "HttpStatusCode": "400",
       "ErrorCategory": "ClientSide",
       "ErrorType": "BadRequestException",

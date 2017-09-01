@@ -11,7 +11,7 @@
     {
       "UsgErrorCode": "5",
       "GetARoomErrorCode": "381",
-      "HttpStatusCode": "400",
+      "HttpStatusCode": "410",
       "ErrorCategory": "ClientSide",
       "ErrorType": "BadRequestException",
       "Tag": "Hotel"

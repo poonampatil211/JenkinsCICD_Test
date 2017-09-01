@@ -1,7 +1,7 @@
 ﻿{
   "ErrorMap": [
     {
-      "UsgErrorCode": "3",
+      "UsgErrorCode": "4",
       "GetARoomErrorCode": "383",
       "HttpStatusCode": "400",
       "ErrorCategory": "ClientSide",

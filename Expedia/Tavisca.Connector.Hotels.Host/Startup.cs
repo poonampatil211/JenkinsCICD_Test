@@ -51,7 +51,12 @@ namespace Travel.Connectors.Hotel
             return container.GetInstance<IServiceProvider>();
         }
 
+
         // RoomRates Dev checkin 1
+        // BookDev commit 1
+        // BookDev commit 2
+        // BookDev commit 3
+
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
         {
             app.UseMvc();

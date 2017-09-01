@@ -39,7 +39,7 @@ namespace Travel.Connectors.Hotel
             //ExceptionPolicy.Configure(serviceProvider.GetRequiredService<IErrorHandler>());
             return serviceProvider;
         }
-
+        // RoomRates changes
         public IServiceProvider ConfigureIoC(IServiceCollection services)
         {
             var container = new Container();

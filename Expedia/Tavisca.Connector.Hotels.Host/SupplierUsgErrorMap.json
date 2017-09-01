@@ -24,14 +24,7 @@
       "ErrorType": "BadRequestException",
       "Tag": "Hotel"
     },
-    {
-      "UsgErrorCode": "6",
-      "GetARoomErrorCode": "0",
-      "HttpStatusCode": "500",
-      "ErrorCategory": "ServerSide",
-      "ErrorType": "SystemException",
-      "Tag": "Hotel"
-    },
+ 
     {
       "UsgErrorCode": "12",
       "GetARoomErrorCode": "500",

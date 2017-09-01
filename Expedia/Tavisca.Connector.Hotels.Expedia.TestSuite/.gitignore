@@ -1,2 +1,4 @@
 *.lock.json
 /TaviscaLogs/
+/obj/
+/bin/

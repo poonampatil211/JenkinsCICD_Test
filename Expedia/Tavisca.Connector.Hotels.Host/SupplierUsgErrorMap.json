@@ -2,7 +2,7 @@
   "ErrorMap": [
     {
       "UsgErrorCode": "4",
-      "GetARoomErrorCode": "384",
+      "GetARoomErrorCode": "386",
       "HttpStatusCode": "400",
       "ErrorCategory": "ClientSide",
       "ErrorType": "BadRequestException",

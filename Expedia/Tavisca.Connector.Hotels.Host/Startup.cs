@@ -40,6 +40,7 @@ namespace Travel.Connectors.Hotel
             return serviceProvider;
         }
         // RoomRates changes
+        // RoomRates changes commit 2
         public IServiceProvider ConfigureIoC(IServiceCollection services)
         {
             var container = new Container();

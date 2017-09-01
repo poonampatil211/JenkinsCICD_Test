@@ -1,7 +1,7 @@
 ﻿{
   "ErrorMap": [
     {
-      "UsgErrorCode": "4",
+      "USgErrorCode": "10",
       "GetARoomErrorCode": "383",
       "HttpStatusCode": "400",
       "ErrorCategory": "ClientSide",
@@ -9,10 +9,10 @@
       "Tag": "Hotel"
     },
     {
-      "UsgErrorCode": "5",
-      "GetARoomErrorCode": "381",
-      "HttpStatusCode": "400",
-      "ErrorCategory": "ClientSide",
+      "UsgErrorCode": "5123",
+      "GetARoomErrorCode": "3812",
+      "HttpStatusCode": "4000",
+      "ErrorCategory": "ClientSidesssssssssssssssssssssssssssssssssss",
       "ErrorType": "BadRequestException",
       "Tag": "Hotel"
     },
